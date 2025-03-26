@@ -24,5 +24,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-addweb&show_icons=true&locale=en" alt="manoj-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-addweb&" alt="manoj-addweb" /></p>
